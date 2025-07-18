@@ -2,6 +2,8 @@
   "session_name": "jean",
   "session_file": "2025-07-18-1731-jean.md",
   "start_time": "2025-07-18 17:31",
+  "end_time": "2025-07-18 17:42",
+  "duration_minutes": 11,
   "last_update": "2025-07-18 17:38",
   "project_directory": "/home/jeff/claude-code/18-07",
   "project_name": "18-07",
@@ -9,5 +11,10 @@
   "github_session_repo": "https://github.com/D9kej5892KfW/claude-session-jean",
   "git_status": "none",
   "updates_count": 1,
+  "status": "completed",
+  "files_created": ["hello-jean.js"],
+  "files_created_count": 1,
+  "github_commits": 2,
+  "code_snapshots": 1,
   "created_by": "claude-session-management"
 }
